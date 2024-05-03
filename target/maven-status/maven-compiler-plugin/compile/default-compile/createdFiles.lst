@@ -1,0 +1,6 @@
+com/typotest/codecoverage/CodecoverageApplication.class
+com/typotest/codecoverage/service/utils/Utils.class
+com/typotest/codecoverage/service/impl/RedisServiceImpl.class
+com/typotest/codecoverage/Message.class
+com/typotest/codecoverage/service/utils/Utils$MOOD.class
+com/typotest/codecoverage/service/RedisService.class

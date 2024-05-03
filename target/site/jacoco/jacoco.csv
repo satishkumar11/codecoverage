@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+codecoverage,com.typotest.codecoverage.service.utils,Utils.MOOD,70,0,0,0,10,0,3,0,3,0
+codecoverage,com.typotest.codecoverage.service.utils,Utils,574,0,82,0,95,0,61,0,20,0
+codecoverage,com.typotest.codecoverage,Message,7,22,2,2,2,5,3,2,1,2
+codecoverage,com.typotest.codecoverage,CodecoverageApplication,5,3,0,0,2,1,1,1,1,1
+codecoverage,com.typotest.codecoverage.service.impl,RedisServiceImpl,0,70,0,0,0,15,0,5,0,5

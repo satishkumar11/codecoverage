@@ -1,0 +1,3 @@
+com/typotest/codecoverage/TestMessage.class
+com/typotest/codecoverage/CodecoverageApplicationTests.class
+com/typotest/codecoverage/service/impl/TestRedisServiceImpl.class

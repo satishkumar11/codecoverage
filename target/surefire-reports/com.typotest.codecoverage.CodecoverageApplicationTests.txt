@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.typotest.codecoverage.CodecoverageApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.34 s - in com.typotest.codecoverage.CodecoverageApplicationTests
